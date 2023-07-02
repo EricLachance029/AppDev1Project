@@ -1,0 +1,11 @@
+G:\Vanier\Block4\AppDev1\LoginTest\bin\Debug\LoginTest.exe.config
+G:\Vanier\Block4\AppDev1\LoginTest\bin\Debug\LoginTest.exe
+G:\Vanier\Block4\AppDev1\LoginTest\bin\Debug\LoginTest.pdb
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.csproj.AssemblyReference.cache
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.csproj.SuggestedBindingRedirects.cache
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.Form1.resources
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.Properties.Resources.resources
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.csproj.GenerateResource.cache
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.exe
+G:\Vanier\Block4\AppDev1\LoginTest\obj\Debug\LoginTest.pdb
