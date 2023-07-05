@@ -1,0 +1,14 @@
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\bin\Debug\Library Management System project.exe.config
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\bin\Debug\Library Management System project.exe
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\bin\Debug\Library Management System project.pdb
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.WelcomePage.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.popupLibrarianLogin.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.Properties.Resources.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.exe
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.pdb
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.librarianForm.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.PopupMemberLogin.resources

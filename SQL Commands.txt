@@ -1,0 +1,22 @@
+USE [LibraryManagementSystemDB]
+GO
+
+INSERT INTO [dbo].[LibrarianInfo]
+           ([LibrarianID]
+           ,[FirstName]
+           ,[LastName]
+           ,[Address]
+           ,[PhoneNumber]
+           ,[Email]
+           ,[Username]
+           ,[Password])
+     VALUES
+           (100
+           ,'John'
+           ,'Smith'
+           ,'123 Example Avenue'
+           ,'514-123-4567'
+           ,'johnsmith@gmail.com'
+           ,'User1'
+           ,'Pass1')
+GO
