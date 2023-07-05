@@ -2,7 +2,12 @@
  * Form1 - WelcomePage
  * Form2 - PopupLibrarianLogin
  * Form3 - LibrarianForm
- */
+ * Form4 - MemberLogin
+ * Form5 - MemberForm
+ * Form6 - NonMemberForm
+ * Form7 - SupplierLogin
+ * Form8 - SupplierForm
+ ****************************************/
 
 
 
@@ -49,14 +54,16 @@ namespace Library_Management_System_project
         /****************************************************************************** Button to non-Member Form *****/
         private void nonmemberButton_Click(object sender, EventArgs e)
         {
-
+            NonMemberForm frm6 = new NonMemberForm();
+            frm6.Show();
         }
 
 
         /****************************************************************************** Button to Supplier Form *****/
         private void supplierButton_Click(object sender, EventArgs e)
         {
-
+            SupplierLogin frm7 = new SupplierLogin();
+            frm7.Show();
         }
     }
 }

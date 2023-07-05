@@ -1,5 +1,4 @@
-﻿using Library_Management_System_project;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,24 +11,12 @@ using System.Windows.Forms;
 
 namespace Library_Management_System_project
 {
-    public partial class PopupLibrarianLogin : Form
+    public partial class SupplierLogin : Form
     {
-        public static string LibrarianName = "";
-
-        public PopupLibrarianLogin()
+        public SupplierLogin()
         {
             InitializeComponent();
         }
-
-        private void backButton_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        /************************************************************************************************** Login Button *****
-         * *******************************************************************************************************************
-         * Gets User/Pass from LibrarianInfo table, which is a part of LibraryManagementSystemDB Database
-         ********************************************************************************************************************/
 
         private void loginButton_Click(object sender, EventArgs e)
         {
@@ -62,18 +49,18 @@ namespace Library_Management_System_project
             {
                 //If User/Pass matches, close main + login window, and open librarianForm
                 string LibrarianName = dt.Rows[0]["FirstName"].ToString();
-                LibrarianForm librarianForm = new LibrarianForm(LibrarianName);
-                librarianForm.Show();
+                SupplierForm supplierForm = new SupplierForm(LibrarianName);
+                supplierForm.Show();
 
                 this.Close();
-                
+
             }
             else
             {
                 MessageBox.Show("Invalid Login please check username and password");
             }
             con.Close();
-            
+
         }
 
 

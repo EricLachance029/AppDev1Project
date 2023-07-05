@@ -32,13 +32,10 @@ namespace Library_Management_System_project
              * This line is for the DB address on my computer, When testing on your PC, comment this one out and add your own, 
              * that way it'll be quick to Test on either one of our computer since we just need to cxomment/un-comment out 1 line 
              ******************************************************************************************************************/
-            //con.ConnectionString = "Data Source=DESKTOP-VU3ANP7\\SQLEXPRESS01;Initial Catalog=LibraryManagementSystemDB;Integrated Security=true";
+            con.ConnectionString = "Data Source=DESKTOP-VU3ANP7\\SQLEXPRESS01;Initial Catalog=LibraryManagementSystemDB;Integrated Security=true";
             // Copy line above but with your DB address here, then comment out line above, don't delete it
 
-
-            //ALL of this below is just copy/pasted from librarypopup, needs to be adjusted to member login page
-
-            /*
+            
             con.Open();
 
             //Gets Name, Username and Password from DB, and compares them to textbox input
@@ -55,14 +52,18 @@ namespace Library_Management_System_project
             //If no info was found in DB (therefore, table wouldn't have any rows), ignore this
             if (dt.Rows.Count > 0)
             {
+
                 //If User/Pass matches, close main + login window, and open librarianForm
                 string LibrarianName = dt.Rows[0]["FirstName"].ToString();
-                LibrarianForm librarianForm = new LibrarianForm(LibrarianName);
+                MemberForm librarianForm = new MemberForm(LibrarianName);
                 librarianForm.Show();
 
                 this.Close();
-                WelcomePage welcomePage = new WelcomePage();
-                welcomePage.Close();
+
+
+
+
+
             }
             else
             {
@@ -75,10 +76,10 @@ namespace Library_Management_System_project
         {
             MessageBox.Show("Username or Password is incorrect");
         }
-            */
+        
 
 
-        }
+        
     }
 }
 

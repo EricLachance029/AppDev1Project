@@ -12,3 +12,7 @@ C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\o
 C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library Management System project.pdb
 C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.librarianForm.resources
 C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.PopupMemberLogin.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.MemberForm.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.NonMemberForm.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.SupplierLogin.resources
+C:\Users\Eric\Desktop\Project\AppDev1Project\Library Management System project\obj\Debug\Library_Management_System_project.SupplierForm.resources

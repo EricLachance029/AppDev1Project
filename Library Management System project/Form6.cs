@@ -10,23 +10,11 @@ using System.Windows.Forms;
 
 namespace Library_Management_System_project
 {
-    public partial class LibrarianForm : Form
+    public partial class NonMemberForm : Form
     {
-        private string librarianName;
-
-        public LibrarianForm(string librarianName)
+        public NonMemberForm()
         {
             InitializeComponent();
-            this.librarianName = librarianName;
-            showWelcomeLabel.Text = "Login successful, welcome " + librarianName;
-            showWelcomeLabel.Show();
-
-
-        }
-
-        private void showWelcomeLabel_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void backButton_Click(object sender, EventArgs e)
